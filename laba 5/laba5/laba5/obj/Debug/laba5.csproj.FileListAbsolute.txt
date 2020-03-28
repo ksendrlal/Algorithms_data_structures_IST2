@@ -1,0 +1,6 @@
+C:\Users\Ксеша\Desktop\laba5\laba5\bin\Debug\laba5.exe.config
+C:\Users\Ксеша\Desktop\laba5\laba5\bin\Debug\laba5.exe
+C:\Users\Ксеша\Desktop\laba5\laba5\bin\Debug\laba5.pdb
+C:\Users\Ксеша\Desktop\laba5\laba5\obj\Debug\laba5.csprojAssemblyReference.cache
+C:\Users\Ксеша\Desktop\laba5\laba5\obj\Debug\laba5.exe
+C:\Users\Ксеша\Desktop\laba5\laba5\obj\Debug\laba5.pdb
