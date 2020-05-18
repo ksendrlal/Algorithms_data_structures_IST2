@@ -1,0 +1,26 @@
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\bin\Debug\StructureOfMolecules.exe.config
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\bin\Debug\StructureOfMolecules.exe
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\bin\Debug\StructureOfMolecules.pdb
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.csprojAssemblyReference.cache
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.Form1.resources
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.Properties.Resources.resources
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.csproj.GenerateResource.cache
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.exe
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.pdb
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.csproj.CopyComplete
+C:\Users\Ксеша\Desktop\c#\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.Form2.resources
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\bin\Debug\StructureOfMolecules.exe.config
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\bin\Debug\StructureOfMolecules.exe
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\bin\Debug\StructureOfMolecules.pdb
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\bin\Debug\Newtonsoft.Json.dll
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\bin\Debug\Newtonsoft.Json.xml
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.csprojAssemblyReference.cache
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.Form1.resources
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.Form2.resources
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.Properties.Resources.resources
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.csproj.GenerateResource.cache
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.csproj.CopyComplete
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.exe
+D:\TP\Algorithms_data_structures_IST2\Algorithms_data_structures_IST2\laba 6\StructureOfMolecules\StructureOfMolecules\obj\Debug\StructureOfMolecules.pdb

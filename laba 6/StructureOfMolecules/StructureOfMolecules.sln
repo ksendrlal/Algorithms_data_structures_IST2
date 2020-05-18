@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureOfMolecules", "StructureOfMolecules\StructureOfMolecules.csproj", "{96FC1BBC-3BCC-4704-B56A-50F1BB6F1158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96FC1BBC-3BCC-4704-B56A-50F1BB6F1158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FC1BBC-3BCC-4704-B56A-50F1BB6F1158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FC1BBC-3BCC-4704-B56A-50F1BB6F1158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FC1BBC-3BCC-4704-B56A-50F1BB6F1158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C51C65F5-1526-4FCB-90E8-689D92359A4C}
+	EndGlobalSection
+EndGlobal

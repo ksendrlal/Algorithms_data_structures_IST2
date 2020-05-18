@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ListEdgesAndVertexes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EdgesList>
+    <EdgesList>
+      <Edge>
+        <v1>
+          <X>212</X>
+          <Y>57</Y>
+        </v1>
+        <v2>
+          <X>361</X>
+          <Y>247</Y>
+        </v2>
+        <ColorEdge>-65536</ColorEdge>
+      </Edge>
+    </EdgesList>
+  </EdgesList>
+  <VertexesList>
+    <VertexesList>
+      <Vertex>
+        <X>193</X>
+        <Y>125</Y>
+        <ColorVertex>-8355712</ColorVertex>
+        <Name> </Name>
+      </Vertex>
+      <Vertex>
+        <X>243</X>
+        <Y>234</Y>
+        <ColorVertex>-8355712</ColorVertex>
+        <Name> </Name>
+      </Vertex>
+      <Vertex>
+        <X>333</X>
+        <Y>75</Y>
+        <ColorVertex>-8355712</ColorVertex>
+        <Name> </Name>
+      </Vertex>
+      <Vertex>
+        <X>361</X>
+        <Y>247</Y>
+        <ColorVertex>-65536</ColorVertex>
+        <Name> </Name>
+      </Vertex>
+      <Vertex>
+        <X>212</X>
+        <Y>57</Y>
+        <ColorVertex>-65536</ColorVertex>
+        <Name> </Name>
+      </Vertex>
+    </VertexesList>
+  </VertexesList>
+</ListEdgesAndVertexes>
